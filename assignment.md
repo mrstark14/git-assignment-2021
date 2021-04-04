@@ -39,9 +39,13 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Sweety Gupta
 <a href="https://www.instagram.com/svveetyx"><img src="instalogo.png" alt="instagram link" width="50px" height="50px"></a>
- 
+
 ### Nikita Tripathi
 <a href="https://github.com/NekoNya3"><img src="https://image.flaticon.com/icons/png/128/2111/2111425.png"></img></a>
 
 ### Ramanu Varsha
 <a href="https://www.facebook.com/varsha.ramanu/"><img src = "icons8-facebook-64.png" alt="facebook"></a>
+
+### Sanjeet Manna
+<a href="https://www.facebook.com/sanjeetmanna14/"><img src="icons8-facebook-64.png"></a>
+
