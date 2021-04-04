@@ -36,9 +36,8 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Sweety Gupta
 <a href="https://www.instagram.com/svveetyx"><img src="instalogo.png" alt="instagram link" width="50px" height="50px"></a>
-<<<<<<< HEAD
- 
+
 ### Nikita Tripathi
 <a href="https://github.com/NekoNya3"><img src="https://image.flaticon.com/icons/png/128/2111/2111425.png"></img></a>
-=======
->>>>>>> b22670f (Revert "Commit by Sanjeet")
+
+
